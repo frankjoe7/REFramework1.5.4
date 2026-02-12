@@ -9,7 +9,7 @@
 #elif defined(MHWILDS)
 #define TDB_VER 81
 #elif defined(DD2)
-#define TDB_VER 73
+#define TDB_VER 71
 #elif defined(SF6)
 #define TDB_VER 71
 #elif defined (RE4)
